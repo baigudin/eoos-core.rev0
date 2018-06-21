@@ -1,0 +1,27 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/baigudin/eoos-api.git
+[submodule "cpu/ti/am18x"]
+	path = cpu/ti/am18x
+	url = https://github.com/baigudin/eoos-cpu-ti-am18x
+[submodule "cpu/ti/tms320c28x"]
+	path = cpu/ti/tms320c28x
+	url = https://github.com/baigudin/eoos-cpu-ti-tms320c28x
+[submodule "cpu/ti/tms320c64x"]
+	path = cpu/ti/tms320c64x
+	url = https://github.com/baigudin/eoos-cpu-ti-tms320c64x
+[submodule "cpu/ti/tms320c64xplus"]
+	path = cpu/ti/tms320c64xplus
+	url = https://github.com/baigudin/eoos-cpu-ti-tms320c64xplus
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/baigudin/eoos-kernel.git
+[submodule "library"]
+	path = library
+	url = https://github.com/baigudin/eoos-library.git
+[submodule "projects"]
+	path = projects
+	url = https://github.com/baigudin/eoos-projects.git
+[submodule "system"]
+	path = system
+	url = https://github.com/baigudin/eoos-system.git
