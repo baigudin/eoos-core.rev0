@@ -13,9 +13,6 @@
 [submodule "cpu/ti/tms320c64xplus"]
 	path = cpu/ti/tms320c64xplus
 	url = https://github.com/baigudin/eoos-cpu-ti-tms320c64xplus
-[submodule "kernel"]
-	path = kernel
-	url = https://github.com/baigudin/eoos-kernel.git
 [submodule "library"]
 	path = library
 	url = https://github.com/baigudin/eoos-library.git
