@@ -25,3 +25,6 @@
 [submodule "system-if-amoeba"]
 	path = system-if-amoeba
 	url = https://github.com/baigudin/eoos-system-if-amoeba.git
+[submodule "system-if-linux"]
+	path = system-if-linux
+	url = https://github.com/baigudin/eoos-system-if-linux.git
