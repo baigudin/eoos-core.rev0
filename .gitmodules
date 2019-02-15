@@ -28,3 +28,9 @@
 [submodule "system-if-linux"]
 	path = system-if-linux
 	url = https://github.com/baigudin/eoos-system-if-linux.git
+[submodule "system-if-freertos"]
+	path = system-if-freertos
+	url = https://baigudin@bitbucket.org/embedded-team/eoos-system-if-freertos.git
+[submodule "cpu/ti/am65x"]
+	path = cpu/ti/am65x
+	url = https://baigudin@bitbucket.org/embedded-team/eoos-cpu-ti-am65x.git
