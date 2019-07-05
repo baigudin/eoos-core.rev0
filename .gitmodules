@@ -34,3 +34,6 @@
 [submodule "cpu/ti/am65x"]
 	path = cpu/ti/am65x
 	url = git@bitbucket.org:embedded-team/eoos-cpu-ti-am65x.git
+[submodule "cpu/arm/arm926pxp"]
+	path = cpu/arm/arm926pxp
+	url = git@github.com:baigudin/eoos-cpu-arm-arm926pxp.git
