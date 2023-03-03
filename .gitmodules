@@ -3,37 +3,37 @@
 	url = git@github.com:baigudin/eoos-api.git
 [submodule "cpu/ti/am18x"]
 	path = cpu/ti/am18x
-	url = git@github.com:baigudin/eoos-cpu-ti-am18x.git
+	url = git@github.com:baigudin/eoos-cpu-ti-am18x.rev0.git
 [submodule "cpu/ti/tms320c28x"]
 	path = cpu/ti/tms320c28x
-	url = git@github.com:baigudin/eoos-cpu-ti-tms320c28x.git
+	url = git@github.com:baigudin/eoos-cpu-ti-tms320c28x.rev0.git
 [submodule "cpu/ti/tms320c64x"]
 	path = cpu/ti/tms320c64x
-	url = git@github.com:baigudin/eoos-cpu-ti-tms320c64x.git
+	url = git@github.com:baigudin/eoos-cpu-ti-tms320c64x.rev0.git
 [submodule "cpu/ti/tms320c64xplus"]
 	path = cpu/ti/tms320c64xplus
-	url = git@github.com:baigudin/eoos-cpu-ti-tms320c64xplus.git
+	url = git@github.com:baigudin/eoos-cpu-ti-tms320c64xplus.rev0.git
 [submodule "library"]
 	path = library
 	url = git@github.com:baigudin/eoos-library.git
 [submodule "projects"]
 	path = projects
-	url = git@github.com:baigudin/eoos-projects.git
+	url = git@github.com:baigudin/eoos-ide-projects.rev0.git
 [submodule "system"]
 	path = system
-	url = git@github.com:baigudin/eoos-system.git
+	url = git@github.com:baigudin/eoos-system.rev0.git
 [submodule "system-if-amoeba"]
 	path = system-if-amoeba
-	url = git@github.com:baigudin/eoos-system-if-amoeba.git
+	url = git@github.com:baigudin/eoos-system-if-amoeba.rev0.git
 [submodule "system-if-linux"]
 	path = system-if-linux
 	url = git@github.com:baigudin/eoos-system-if-linux.git
 [submodule "system-if-freertos"]
 	path = system-if-freertos
-	url = git@github.com:baigudin/eoos-system-if-freertos.git
+	url = git@github.com:baigudin/eoos-system-if-freertos.rev0.git
 [submodule "cpu/ti/am65x"]
 	path = cpu/ti/am65x
-	url = git@github.com:baigudin/eoos-cpu-ti-am65x.git
+	url = git@github.com:baigudin/eoos-cpu-ti-am65x.rev0.git
 [submodule "cpu/arm/arm926pxp"]
 	path = cpu/arm/arm926pxp
-	url = git@github.com:baigudin/eoos-cpu-arm-arm926pxp.git
+	url = git@github.com:baigudin/eoos-cpu-arm-arm926pxp.rev0.git
